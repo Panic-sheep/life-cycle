@@ -5,6 +5,9 @@ import com.yangsan.lifecycle.service.senior.ISeniorLifeCycleApplicationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+/**
+ * create by develop-wenxin
+ */
 @RestController
 @RequestMapping("/senior-lifecycle")
 public class SeniorLifeCycleController {
