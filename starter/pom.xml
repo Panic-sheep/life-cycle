@@ -11,7 +11,7 @@
 
     <artifactId>starter</artifactId>
 
-    <dependencies>
+    <dependencies><!---->
         <dependency>
             <artifactId>interface</artifactId>
             <groupId>com.yangsan</groupId>
