@@ -1,6 +1,9 @@
 package com.yangsan.lifecycle.service.senior;
 
 
+/**
+ * create by develop-wenxin-bugfix
+ */
 public interface ISeniorLifeCycleApplicationService {
 
     String test(String name);
